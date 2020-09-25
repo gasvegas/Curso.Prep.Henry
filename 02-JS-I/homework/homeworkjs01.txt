@@ -1,0 +1,34 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+
+Son como cajas donde podés almacenar información para recuperarla más tarde.
+Se declaran con "var", "let" o "const".
+Existen varios tipos de variables.
+
+Strings
+Son bloques o tiras de texto, se escriben entre comillas simples o dobles.
+"Esto es un string"
+
+
+Funciones (argumentos, return)
+Son objetos invocables, almacenan un conjunto de variables.
+Empiezan con la palabra clave "function" y sus nombres deberían describir lo que hacen como buena práctica.
+Una función se escribe así:
+
+function miFuncion(){}
+
+Return es la forma que tienen los datos para escapar de una función y devolver información.
+Una vez que se ejecuta, la función se detiene para devolver lo que le pedimos, por lo que si hay más código después no se ejecutará.
+
+
+Los argumentos son muy importantes en las funciones ya que nos permiten meter datos a las funciones.
+Podemos agregar muchos argumentos separándolos con una coma.
+Los argumentos van dentro de los paréntesis en la estructura de la función.
+
+Declaraciones if
+Sirven para controlar el flujo de la función. Lo que hace este operador es chequear lo que le pidamos para poder en caso positivo una cosa, o en caso negativo seguir avanzando por el código.
+
+
+Valores booleanos (true, false)
+Se utilizan para activar o desactivar, o para establecer si algo es "true" o "false".
